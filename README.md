@@ -1,0 +1,2 @@
+# Deep-Learning-Model-for-Customer-Churn-Prediction-An-Application-on-ANN
+This project is aimed to apply deep neural network model on customer churn rate prediction.  This model show 86 percent accuracy. This is more efficient because ML model and less efficient in undetstanding complex hidden pattern from the data. So, this project incorporated Keras Library for deeply understanding the contributing factor for churn. 
